@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>VirtualJoystick.qml</file>
+        <file>PanelControl.qml</file>
+        <file>ControlContainer.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>photos/airfox.png</file>
+        <file>photos/kaluga.png</file>
+        <file>photos/background.png</file>
+        <file>photos/EnriqueFace.png</file>
+        <file>photos/finger.png</file>
+    </qresource>
+</RCC>
